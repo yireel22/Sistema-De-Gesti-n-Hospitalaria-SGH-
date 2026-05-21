@@ -138,5 +138,6 @@ El repositorio incluye documentos de apoyo en formato PDF:
 - Llenado de base de datos
 - Desarrollo de base de datos
 - Diagrama UML
+- presentacion del proyector (Slides)
 
 Estos archivos se pueden consultar desde la seccion **Documentacion** de la aplicacion.
