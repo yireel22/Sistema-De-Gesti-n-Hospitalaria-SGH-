@@ -33,7 +33,7 @@ La aplicacion frontend consulta datos desde:
 http://localhost:4000/api/data/:tableName
 ```
 
-Por ejemplo:
+Por ejemplo :
 
 ```txt
 http://localhost:4000/api/data/pacientes
